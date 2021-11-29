@@ -6,3 +6,5 @@ My strengths include:
   - Ability to think logically about the behavior of numbers and make inferences
   - Able to see the big picture, make thoughtful tradeoffs and focus on what matters
   - Collaborating with others
+
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps)](https://github.com/anuraghazra/github-readme-stats)
