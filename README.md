@@ -7,10 +7,6 @@ My strengths include:
   - Able to see the big picture, make thoughtful tradeoffs and focus on what matters
   - Collaborating with others
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps)](https://github.com/anuraghazra/github-readme-stats)
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps&hide=stars)
-
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps&hide=stars&show_icons=true&theme=radical)
 
 
