@@ -9,5 +9,5 @@ My strengths include:
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps)](https://github.com/anuraghazra/github-readme-stats)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps&hide=contribs,stars)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps&hide=stars)
 
