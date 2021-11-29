@@ -11,6 +11,6 @@ My strengths include:
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps&hide=stars)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps&show_icons=true&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSupps&hide=stars&show_icons=true&theme=radical)
 
 
